@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9A1E21DC29BF69D90010920E /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A1E21DB29BF69D90010920E /* TableViewController.swift */; };
 		9A39975B29BD8E0300C4728A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A39975A29BD8E0300C4728A /* AppDelegate.swift */; };
 		9A39975D29BD8E0300C4728A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A39975C29BD8E0300C4728A /* SceneDelegate.swift */; };
 		9A39975F29BD8E0300C4728A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A39975E29BD8E0300C4728A /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9A1E21DB29BF69D90010920E /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
 		9A39975729BD8E0300C4728A /* 3homework3m.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = 3homework3m.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9A39975A29BD8E0300C4728A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9A39975C29BD8E0300C4728A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				9A39976329BD8E0400C4728A /* Assets.xcassets */,
 				9A39976529BD8E0400C4728A /* LaunchScreen.storyboard */,
 				9A39976829BD8E0400C4728A /* Info.plist */,
+				9A1E21DB29BF69D90010920E /* TableViewController.swift */,
 			);
 			path = 3homework3m;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				9A39975F29BD8E0300C4728A /* ViewController.swift in Sources */,
 				9A39975B29BD8E0300C4728A /* AppDelegate.swift in Sources */,
 				9A39975D29BD8E0300C4728A /* SceneDelegate.swift in Sources */,
+				9A1E21DC29BF69D90010920E /* TableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
